@@ -1,3 +1,5 @@
+markdown
+
 # Reduce-Firefox-Noise-Burp
 
 Open about:config in firefox
